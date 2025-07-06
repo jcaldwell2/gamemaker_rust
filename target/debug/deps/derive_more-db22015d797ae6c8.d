@@ -1,0 +1,11 @@
+d:\GitHub\gamemaker_rust\target\debug\deps\derive_more-db22015d797ae6c8.dll: C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\display.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\error.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\from.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\parsing.rs
+
+d:\GitHub\gamemaker_rust\target\debug\deps\derive_more-db22015d797ae6c8.d: C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\display.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\error.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\from.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\parsing.rs
+
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\lib.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\syn_compat.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\utils.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\display.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\error.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\from.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\derive_more-0.99.20\src\parsing.rs:

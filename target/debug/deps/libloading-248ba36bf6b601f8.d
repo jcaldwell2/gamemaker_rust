@@ -1,0 +1,11 @@
+d:\GitHub\gamemaker_rust\target\debug\deps\liblibloading-248ba36bf6b601f8.rmeta: C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs
+
+d:\GitHub\gamemaker_rust\target\debug\deps\libloading-248ba36bf6b601f8.d: C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs
+
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs:

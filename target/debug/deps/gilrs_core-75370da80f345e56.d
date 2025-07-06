@@ -1,0 +1,10 @@
+d:\GitHub\gamemaker_rust\target\debug\deps\libgilrs_core-75370da80f345e56.rmeta: C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\lib.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\mod.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\mod.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\ff.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\gamepad.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\utils.rs
+
+d:\GitHub\gamemaker_rust\target\debug\deps\gilrs_core-75370da80f345e56.d: C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\lib.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\mod.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\mod.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\ff.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\gamepad.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\utils.rs
+
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\lib.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\mod.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\mod.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\ff.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\platform\windows_wgi\gamepad.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gilrs-core-0.5.15\src\utils.rs:
