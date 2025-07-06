@@ -1,0 +1,10 @@
+d:\GitHub\gamemaker_rust\target\debug\deps\libaccesskit_consumer-ce9f3171d6a1087e.rmeta: C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\lib.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\tree.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\node.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\filters.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\iterators.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\text.rs
+
+d:\GitHub\gamemaker_rust\target\debug\deps\accesskit_consumer-ce9f3171d6a1087e.d: C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\lib.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\tree.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\node.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\filters.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\iterators.rs C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\text.rs
+
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\lib.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\tree.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\node.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\filters.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\iterators.rs:
+C:\Users\caldw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.16.1\src\text.rs:
