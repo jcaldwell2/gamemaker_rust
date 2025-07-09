@@ -1,0 +1,133 @@
+(
+    entities: [
+        (
+            id: 1,
+            name: "Player",
+            entity_type: Player,
+            transform: (
+                x: 0.0,
+                y: 0.0,
+                z: 0.0,
+            ),
+            color: (
+                r: 0.0,
+                g: 0.0,
+                b: 1.0,
+                a: 1.0,
+            ),
+            size: (
+                width: 40.0,
+                height: 40.0,
+            ),
+            texture_path: None,
+        ),
+        (
+            id: 2,
+            name: "Enemy 1",
+            entity_type: Enemy,
+            transform: (
+                x: -160.0,
+                y: 150.0,
+                z: 0.0,
+            ),
+            color: (
+                r: 1.0,
+                g: 0.0,
+                b: 0.0,
+                a: 1.0,
+            ),
+            size: (
+                width: 30.0,
+                height: 30.0,
+            ),
+            texture_path: None,
+        ),
+        (
+            id: 3,
+            name: "Enemy 2",
+            entity_type: Enemy,
+            transform: (
+                x: -80.0,
+                y: 150.0,
+                z: 0.0,
+            ),
+            color: (
+                r: 1.0,
+                g: 0.0,
+                b: 0.0,
+                a: 1.0,
+            ),
+            size: (
+                width: 30.0,
+                height: 30.0,
+            ),
+            texture_path: None,
+        ),
+        (
+            id: 4,
+            name: "Enemy 3",
+            entity_type: Enemy,
+            transform: (
+                x: 0.0,
+                y: 150.0,
+                z: 0.0,
+            ),
+            color: (
+                r: 1.0,
+                g: 0.0,
+                b: 0.0,
+                a: 1.0,
+            ),
+            size: (
+                width: 30.0,
+                height: 30.0,
+            ),
+            texture_path: None,
+        ),
+        (
+            id: 5,
+            name: "Enemy 4",
+            entity_type: Enemy,
+            transform: (
+                x: 80.0,
+                y: 150.0,
+                z: 0.0,
+            ),
+            color: (
+                r: 1.0,
+                g: 0.0,
+                b: 0.0,
+                a: 1.0,
+            ),
+            size: (
+                width: 30.0,
+                height: 30.0,
+            ),
+            texture_path: None,
+        ),
+        (
+            id: 6,
+            name: "Enemy 5",
+            entity_type: Enemy,
+            transform: (
+                x: 160.0,
+                y: 150.0,
+                z: 0.0,
+            ),
+            color: (
+                r: 1.0,
+                g: 0.0,
+                b: 0.0,
+                a: 1.0,
+            ),
+            size: (
+                width: 30.0,
+                height: 30.0,
+            ),
+            texture_path: None,
+        ),
+    ],
+    next_id: 7,
+    background_image_path: None,
+    background_opacity: 0.5,
+)

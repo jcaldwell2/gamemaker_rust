@@ -5,6 +5,61 @@ All notable changes to GameMaker Rust will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.4.0] - 2025-07-09
+
+### Added
+- **Dockable UI System**: Complete refactoring of the editor UI from floating windows to a professional dockable panel system
+  - Integrated `egui_dock` for advanced docking capabilities
+  - Implemented 11 specialized panel types: Hierarchy, Inspector, Scene View, Asset Browser, Console, Layers, Animation, Tilemap, Game View, Scripting, and Properties
+  - Added professional layout management with drag-and-drop panel rearrangement
+  - Implemented panel resize and flexible workspace organization
+  - Added comprehensive panel state management and persistence
+
+### Changed
+- **UI Architecture**: Migrated from basic egui windows to `egui_dock::DockArea` system
+- **Panel Management**: Replaced individual window toggles with unified dockable panel system
+- **Editor Layout**: Transformed editor into professional IDE-like interface with customizable workspace
+
+### Fixed
+- **Compatibility**: Resolved egui_dock compatibility issues with current Bevy and egui versions
+- **Lifetime Management**: Fixed lifetime and borrowing issues in UI component integration
+- **Panel State**: Improved panel state synchronization and update handling
+
+### Technical Improvements
+- Enhanced UI component modularity and separation of concerns
+- Improved editor state management and resource handling
+- Better integration between editor panels and game engine systems
+- Optimized panel rendering and update performance
+
+### User Experience
+- Professional IDE-like editor interface
+- Intuitive drag-and-drop panel management
+- Flexible workspace customization
+- Improved visual hierarchy and organization
+- Better separation between different editor functions
+
+## [0.3.1] - 2025-07-09
+
+### Added
+- **Unified Menu Bar**: Combined menu bar and game controls into single top toolbar
+- **Professional Game Controls**: Play/Pause/Stop buttons with real-time stats display
+- **Enhanced Asset Browser**: Complete asset management system with Phase 2 implementation
+- **Grid Toggle Controls**: Dual grid controls in View menu for rendering and settings
+
+### Enhanced
+- **UI Layout**: Streamlined interface with unified top panel and clean bottom status bar
+- **Grid Rendering System**: Improved grid display with forced updates when re-enabling
+- **Camera Controls**: Right-click and drag with instant movement during operations
+- **Menu System**: Direct control over grid rendering through View menu options
+
+### Fixed
+- **Grid Toggle Functionality**: Fixed issue where grid wouldn't reappear after being hidden
+- **Navigation Bar Flickering**: Resolved conflicting top panels that caused UI flickering
+- **Grid State Management**: Enhanced grid system to properly detect when updates are needed
+- **UI Panel Conflicts**: Eliminated duplicate TopBottomPanel systems causing render conflicts
+- **Component Imports**: Added missing component imports for proper compilation
+- **Camera Bounce**: Removed smooth interpolation during drag operations for instant response
+
 ## [0.3.0] - 2025-07-06
 
 ### Added
